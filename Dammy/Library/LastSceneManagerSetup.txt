@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/aidbox1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/morgue scene/morgue.unity
+  isLoaded: 1
+  isActive: 0
